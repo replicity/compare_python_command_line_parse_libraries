@@ -1,0 +1,11 @@
+# Mac
+.DS_Store
+
+# vim
+.netrwhist
+*.log
+*.un~
+
+# python
+.python-version
+__pycache__
