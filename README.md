@@ -2,6 +2,9 @@
 
 python のコマンドラインインターフェイス比較用リポジトリ
 
+下記のブログエントリで使用したコードになります。
+http://replicity.hateblo.jp/entry/2018/05/07/015029
+
 ## 比較対象
 - optparse
 - argparse
